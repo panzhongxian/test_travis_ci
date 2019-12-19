@@ -1,0 +1,10 @@
+language: cpp
+compiler: gcc
+
+matrix:
+    include:
+      # works on Precise and Trusty
+      - os: linux
+        dist: trusty
+        name: "compile"
+        script: g++ main.cpp
