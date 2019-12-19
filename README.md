@@ -4,5 +4,5 @@
 test_travis_ci
 
 
-
+[travis-image]: https://travis-ci.org/census-instrumentation/opencensus-cpp.svg?branch=master
 [travis-url]: https://travis-ci.com/panzhongxian/test_travis_ci
